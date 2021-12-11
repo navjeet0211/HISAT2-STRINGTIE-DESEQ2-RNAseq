@@ -1,1 +1,3 @@
 # HISAT2-STRINGTIE-DESEQ2-RNAseq
+
+This galaxy (https://usegalaxy.org/) workflow performs alignment with HISAT2, uses stringtie and then runs DESeq2 to perform the differential gene expression analysis...
